@@ -39,11 +39,11 @@ The player that is batting is moved to the batter's box, and the pitcher is move
 
 The pitcher rolls 2d6 while the batter rolls a 1d12.  If the pitcher rolls higher than the batter, the batter is out.  If the batter ties or rolls higher than the pitcher, the difference between the batter's roll and pitcher's roll places that many balls +1 into play.  For instance:
 
-Batter  Pitcher  Num of balls in play
------   ------   ------
-10      12       Batter is out
-10      5        6 balls in play (5+1)
-2       2        1 ball in play (0+1)
+|Batter|Pitcher|Num of balls in play|
+| --- | --- | --- |
+|10|12|Batter is out|
+|10|5|6 balls in play (5+1) |
+|2|2|1 ball in play (0+1)|
 
 For each ball placed into play a d100 is rolled and the ball is placed on that square.  If the ball lands on a pitching teams square, the ball is destroyed.  If the ball lands on a hitting teams square the ball counts as a run.  After all the balls are placed into play, the players try and recover the balls or attack each other for one round.  To recover a ball the player needs to enter that square by using their movement without dashing.  It takes a full action to score or destory a ball.  If the hitting teams player enters a balls square it may perform a score.  If the pitching team's player enters the ball's square, the ball may be destroyed.  Destorying and scoring with a ball is a full action.
 
