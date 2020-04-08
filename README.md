@@ -1,6 +1,10 @@
 # wrigleyBall
 A simulation of a dice simulation of a little league like game.
 
+Copyright Mike Forsberg 2020 Licensed under GNU GPL v3,
+if you want changes:
+- Please clone the repo, make them, and issue a pull request
+
 ## Hardware
 - 2 3x3 tiles for difficult terrain
 - 1 1x4 tile for difficult terrain
